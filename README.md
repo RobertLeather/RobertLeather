@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertLeather
 - 👀 I’m interested in software development, practices and scrum
-- 🌱 I’m currently learning nodejs, .NET 5, react, angular and GraphQL
+- 🌱 I’m currently learning nodejs, .NET 7, react, angular and GraphQL
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me - via here
 
